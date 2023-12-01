@@ -1,6 +1,6 @@
-# resturant_visitors 🍽️👥🚶‍♂️🚶‍♀️
 
-# Visitor Management System
+
+# Visitor Management System🍽️👥🚶‍♂️🚶‍♀️
 
 This program showcases a Visitor Management System implemented in C++ using classes: `Employee`, `Student`, and `ResVisitors`.
 
