@@ -41,5 +41,5 @@ The program output showcases the details of employees, students, and manages the
 
 ## Additional Notes
 
-Feel free to modify and expand the code as needed. For any questions or improvements, please contact [your email or contact information].
+Feel free to modify and expand the code as needed. For any questions or improvements, please contact [emanimair2@gmail.com].
 
